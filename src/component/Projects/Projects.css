@@ -1,0 +1,17 @@
+.second-banner{
+    background-image: url(https://www.teahub.io/photos/full/247-2474065_abstract-vector-background-4k.jpg);
+    background-size: 100%!important;
+    background-repeat: repeat-y;
+}
+.project-style{
+    border: 2px solid white !important;
+}
+.detail-style{
+    background-color: gray!important;
+}
+.name-style{
+    background-color: salmon !important;
+}
+.photo-style img{
+    height: 400px;
+}

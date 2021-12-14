@@ -1,0 +1,52 @@
+.header-style{
+    position: fixed !important;
+    
+    margin-bottom: 100px;
+    top: 0;
+    right: 0;
+    left: 0;
+    
+  
+    z-index: 1030;
+    border: 1px solid white !important;
+    border-radius: 5px;
+    font-family: 'Ubuntu', 'sans-serif';
+    background-color: rgba(220, 20, 60, 0.575) !important;
+
+
+}
+.header-style li :hover{
+    color: #75edc2 !important ;
+
+}
+.logo-style{
+    font-weight: 600 !important;
+    font-size: 35px !important;
+    font-family: 'Ubuntu', 'sans-serif';
+
+}
+.span-style{
+    color: #75edc2 !important;
+}
+
+.profile-style{
+    border: 5px solid;
+    border-radius: 100% !important;
+    border-color:#75edc2 !important;
+
+}
+.btn-style a{
+    text-decoration: none !important;
+    color: white !important;
+
+}
+.btn-style{
+    background-image: linear-gradient(to right, tomato,salmon) !important;
+
+}
+.contact-style{
+    background-image: linear-gradient(to right,#e86491,#e94950) !important;
+}
+.resume-style{
+    background-image: linear-gradient(to right,blue, cyan) !important;
+}

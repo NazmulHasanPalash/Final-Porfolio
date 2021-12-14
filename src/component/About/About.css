@@ -1,0 +1,19 @@
+.about-style{
+    background-image: url(https://www.wallpaperuse.com/wallp/40-409383_m.jpg) !important;
+    background-size: 100%;
+    background-repeat: repeat-y;
+}
+.skill-style{
+    color: crimson !important;
+}
+.about-btn{
+    background-color: crimson !important;
+}
+.about-btn a{
+text-decoration: none;
+color: white !important;
+
+}
+.bar-style{
+    background-color: violet;
+}
